@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Christopher Cardoso Personal blog`,
+    title: `Kriscard 👨‍💻`,
     author: `Christopher Cardoso`,
     description: `A personnal blog about software development and Javscript.`,
     siteUrl: `https://kriscard_blog.netlify.com/`,
@@ -83,7 +83,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     {
