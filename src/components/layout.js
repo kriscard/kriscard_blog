@@ -25,8 +25,9 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
+              backgroundImage: `none`,
             }}
-            to={location.pathname === blogPath ? `/blog/` : `/`}
+            to={`/`}
           >
             {title}
           </Link>
@@ -45,8 +46,9 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
+              backgroundImage: `none`,
             }}
-            to={`/blog/`}
+            to={`/`}
           >
             {title}
           </Link>
