@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: kriscard
++ repo: kriscard/blog
 
 media_folder: static/assets
 public_folder: assets
