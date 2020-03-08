@@ -1,6 +1,6 @@
 backend:
-  name: kriscard
-+ repo: kriscard/blog
+  name: github
+  repo: kriscard/kriscard_blog
 
 media_folder: static/assets
 public_folder: assets
