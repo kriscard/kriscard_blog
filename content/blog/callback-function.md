@@ -16,6 +16,6 @@ Let's me try to give you a clear vision of this notion:
 
 I want to make a pizza for dinner tonight! I sent my little brother to the grocery for some tomato sauce, eggs, and cheese, but I already know he will forget something. So I asked his best friend, "Callback," to go to the grocery with him and make sure he doesn't forget something. When my little brother adds everything in the cart, "Callback" will check if something is missing something from the list.
 
-Code sample to add
+![CallBack function](assets/callback.png "CallBack function")
 
 I hope this little example gave you a better vision about what is a Callback function and how to use them.
