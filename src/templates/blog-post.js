@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import { MDXRenderer } from "gatsby-plugin-mdx"
-
+import Img from "gatsby-image"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -20,6 +20,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <h1 style={{ marginBottom: `1.25rem` }}>{post.frontmatter.title}</h1>
+        {/* <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} /> */}
         <p
           style={{
             ...scale(-1 / 5),
