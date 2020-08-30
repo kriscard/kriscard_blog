@@ -4,7 +4,7 @@ date: 2020-03-18T00:54:26.034Z
 title: Callback function
 description: What is a callback function?
 ---
-For a long time, I didn't have a clear answer to what is a "Callback function".  With a little help from Google and the magic keyword ELI5 (Explain Like I'm 5), I was able to get a pretty simple explanation about this concept. My goal here is to provide you a simple explanation of what is a Callback function.  
+For a long time, I didn't have a clear answer to what a "Callback function" is.  With a little help from Google and the magic keyword ELI5 (Explain Like I'm 5), I was able to get a pretty simple explanation about this concept. My goal here is to provide you a simple explanation of what is a Callback function.  
 
 **DEFINITION**
 
